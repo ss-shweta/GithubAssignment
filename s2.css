@@ -1,0 +1,17 @@
+h1{
+    background-color: rgb(229, 229, 160);
+    text-decoration: navy;
+    text-align: center;
+    color: lightcoral;
+}
+
+body{
+    background-color: rgb(167, 221, 216);
+}
+h2{
+    text-align-last: center;
+    background-color: tomato;
+}
+p{
+    color: rgb(58, 70, 35);
+}
