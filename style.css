@@ -1,0 +1,26 @@
+head{
+    color: rgb(73, 121, 168);
+}
+body{
+    background-color: rgb(202, 207, 212);
+}
+label{
+    color: rgb(61, 35, 3);
+}
+button{
+    color: rgb(31, 5, 54);
+    font-size: medium;
+    font-style: initial;
+    background-color: rgb(163, 148, 148);
+    shape-margin: 0px;
+}
+input{
+    background-color: rgb(155, 139, 139);
+}
+h1{
+    font-style: oblique;
+    font-size: x-large;
+    font-stretch: absolute;
+    font-display: auto;
+    background-color: lightseagreen;
+}
